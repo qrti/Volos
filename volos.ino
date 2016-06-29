@@ -321,7 +321,7 @@ void setRoll()
 
 void setYsc()
 {
-    set(&ysc, NUMYSC, SET_NUD, chr_y, 1);
+    set(&ysc, NUMYSC, SET_NUD, chr_y, 0);
 }
 
 void setNud()
